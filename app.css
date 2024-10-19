@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFF1DB;
+}
+
+h1 {
+ color: #536493;
+}
+
+input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    margin-bottom: 30px;
+}
+
+.bg-01 {
+    background-color: #242424;
+    color: brown;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.max-width {
+    max-width: 700px;
+    margin: 0 auto;
+}
